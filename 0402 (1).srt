@@ -1,0 +1,76 @@
+1
+00:00:00,200 --> 00:00:02,900
+Today is day 3 of 1 Lakh per month challenge in 100 days
+
+2
+00:00:03,333 --> 00:00:05,000
+I have been renovating my website
+
+3
+00:00:05,000 --> 00:00:06,333
+it is time for a fresh
+
+4
+00:00:06,333 --> 00:00:08,066
+new look and some exciting updates
+
+5
+00:00:08,066 --> 00:00:10,333
+I'm creating this website using html
+
+6
+00:00:10,333 --> 00:00:12,400
+CSS Javascript and bootstrap
+
+7
+00:00:12,466 --> 00:00:14,566
+after completing some work on website
+
+8
+00:00:14,566 --> 00:00:17,500
+I designed a killer for my social media marketing
+
+9
+00:00:17,533 --> 00:00:19,733
+it looks great and I think you all love it
+
+10
+00:00:19,733 --> 00:00:21,466
+and here is the output
+
+11
+00:00:21,466 --> 00:00:23,066
+Yesterday I utilised a whatsapp automation software
+
+12
+00:00:23,066 --> 00:00:24,166
+To send out the poster in bulk
+
+13
+00:00:24,166 --> 00:00:25,166
+in bulk and today
+
+14
+00:00:25,166 --> 00:00:26,166
+I did the same software
+
+15
+00:00:26,166 --> 00:00:28,266
+to share today's poster in bulk as well
+
+16
+00:00:28,500 --> 00:00:30,066
+all the hard work on the marketing paid off
+
+17
+00:00:30,066 --> 00:00:31,266
+I scored a new need today
+
+18
+00:00:31,266 --> 00:00:32,733
+we have scheduled a physical meeting
+
+19
+00:00:32,733 --> 00:00:33,833
+to discuss their project
+
